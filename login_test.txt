@@ -1,0 +1,12 @@
+{
+  user: {
+    _id: '653cad99b2cb2056638aed26',
+    username: '프로혼밥러시안',
+    email: 'holo_nyam@gmail.com',
+    accountname: 'holo_pro',
+    intro: '프로혼밥러',
+    image: 'https://api.mandarin.weniv.co.kr/1699364152190.jpg',
+    token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1M2NhZDk5YjJjYjIwNTY2MzhhZWQyNiIsImV4cCI6MTcyMjQ1NzY3MCwiaWF0IjoxNzE3MjczNjcwfQ.PmZSkd62aUo-9swD1DjeciYjSlOxJoQp9L5XqIdxDP0',
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTcyNzM2NzAsImV4cCI6MTcxODQ4MzI3MH0.49lsU-CiGptfkFxQIfLj0vMPZ5k6YXuV9i8gUCwu8Uc'
+  }
+}

@@ -1,0 +1,12 @@
+{
+  user: {
+    _id: '6543409eb2cb205663ba1085',
+    username: '개발자 냠',
+    email: 'holo_dev@gmail.com',
+    accountname: 'holo_dev',
+    intro: '개발자의 혼밥 일상',
+    image: 'https://api.mandarin.weniv.co.kr/1698906263839.png',
+    token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDM0MDllYjJjYjIwNTY2M2JhMTA4NSIsImV4cCI6MTcyMjQ1Nzc3MiwiaWF0IjoxNzE3MjczNzcyfQ.W6tCtAgufDx_6xIwrdU-S-hhnOEH1S9Sg3hMonPpmTI',
+    refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTcyNzM3NzIsImV4cCI6MTcxODQ4MzM3Mn0.hg_2biMuqBZ2vdmTLfGYbcDuLpwMg-nRuf9hIzwx91w'
+  }
+}
