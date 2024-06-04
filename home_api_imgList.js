@@ -6,18 +6,33 @@ const token = {
     dev: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1M2NhZDk5YjJjYjIwNTY2MzhhZWQyNiIsImV4cCI6MTcyMjQ1NzY3MCwiaWF0IjoxNzE3MjczNjcwfQ.PmZSkd62aUo-9swD1DjeciYjSlOxJoQp9L5XqIdxDP0',
 };
 
+const imgSet = new Set();
+
 const feed_detail = async ({ token, limit = 10, skip = 0 }) => {
     const query = `?limit=${limit}&skip=${skip}`;
     const res = await axios.get(`${BASE_URL}/post/feed/${query}`,
-        {
-            headers: {
-                Authorization: `Bearer ${token}`,
-                'Content-type': 'application/json',
-            },
+    {
+        headers: {
+            Authorization: `Bearer ${token}`,
+            'Content-type': 'application/json',
+        },
     });
-    console.log(res.data);
-    console.log(res.data.posts.length); // 총 게시물 개수: test 15개, dev 19개
+    
+    res.data.posts.forEach(feed => {
+        if (feed.image.includes(",")) {
+            feed.image.split(",").forEach(img => imgSet.add(img.trim()));
+        } else {
+            imgSet.add(feed.image);
+        }
+    });
+
     return res;
 };
 
-feed_detail({ token: token.test, limit: 20, skip: 0});
+(async () => {
+    await feed_detail({ token: token.test, limit: 20, skip: 0});
+    await feed_detail({ token: token.dev, limit: 20, skip: 0});
+    
+    const imgList = [...imgSet];
+    console.log(imgList.join(','));
+})();

@@ -1,6 +1,6 @@
 import axios from "axios";
+import BASE_URL from "./base_url.js";
 
-// const BASE_URL = 'https://api.mandarin.weniv.co.kr';
 const login_info = [
     {
     email: 'holo_nyam@gmail.com',
@@ -15,7 +15,7 @@ const login_info = [
 const login = async ( {email, password} ) => {
     try {
         const res = await axios.post(
-            'https://api.mandarin.weniv.co.kr/user/login',
+            `${BASE_URL}/user/login`,
             {
                 user: {
                     email: email,
@@ -29,7 +29,7 @@ const login = async ( {email, password} ) => {
             },
         );
         console.log(res.data);
-        return (res);
+        return res;
     } catch (err) {
         throw new Error(err);
     }
