@@ -1,0 +1,30 @@
+{
+  profile: {
+    _id: '653cad99b2cb2056638aed26',
+    username: '프로혼밥러시안',
+    accountname: 'holo_pro',
+    intro: '프로혼밥러',
+    image: 'https://api.mandarin.weniv.co.kr/1699364152190.jpg',
+    isfollow: true,
+    following: [
+      '653b9238b2cb2056638a298b',
+      '6547d839b2cb205663fd7642',
+      '65487c05b2cb2056630ff074',
+      '65449592b2cb205663ca4297',
+      '6547b531b2cb205663f9f313',
+      '654998bdb2cb2056633751e0',
+      '6543409eb2cb205663ba1085'
+    ],
+    follower: [
+      '653b9238b2cb2056638a298b',
+      '6543409eb2cb205663ba1085',
+      '65449592b2cb205663ca4297',
+      '6547b531b2cb205663f9f313',
+      '6547d839b2cb205663fd7642',
+      '65487c05b2cb2056630ff074',
+      '654998bdb2cb2056633751e0'
+    ],
+    followerCount: 7,
+    followingCount: 7
+  }
+}

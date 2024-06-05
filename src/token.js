@@ -1,0 +1,6 @@
+const token = {
+    holo_pro: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDM0MDllYjJjYjIwNTY2M2JhMTA4NSIsImV4cCI6MTcyMjQ1Nzc3MiwiaWF0IjoxNzE3MjczNzcyfQ.W6tCtAgufDx_6xIwrdU-S-hhnOEH1S9Sg3hMonPpmTI',
+    holo_dev: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1M2NhZDk5YjJjYjIwNTY2MzhhZWQyNiIsImV4cCI6MTcyMjQ1NzY3MCwiaWF0IjoxNzE3MjczNjcwfQ.PmZSkd62aUo-9swD1DjeciYjSlOxJoQp9L5XqIdxDP0',
+};
+
+export default token;

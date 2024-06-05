@@ -1,5 +1,5 @@
 import axios from "axios";
-import BASE_URL from "./base_url.js";
+import BASE_URL from "./base_url.mjs";
 
 const login_info = [
     {
