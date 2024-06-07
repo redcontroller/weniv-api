@@ -1,0 +1,285 @@
+{
+  "data": 8,
+  "product": [
+    {
+      "id": "654a9bb9b2cb20566366166f",
+      "itemName": "희락돈까스",
+      "price": 4,
+      "link": "서울 영등포구 양산로 210",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1699388345243.jpg",
+      "createdAt": "2023-11-07T20:19:05.406Z",
+      "updatedAt": "2023-11-07T20:19:05.406Z",
+      "author": {
+        "_id": "6543409eb2cb205663ba1085",
+        "username": "개발자 냠",
+        "accountname": "holo_dev",
+        "intro": "개발자의 혼밥 일상",
+        "image": "https://api.mandarin.weniv.co.kr/1698906263839.png",
+        "isfollow": false,
+        "following": [
+          "653cad99b2cb2056638aed26",
+          "653b9238b2cb2056638a298b",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0"
+        ],
+        "follower": [
+          "65449592b2cb205663ca4297",
+          "653b9238b2cb2056638a298b",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0",
+          "653cad99b2cb2056638aed26"
+        ],
+        "followerCount": 6,
+        "followingCount": 6
+      }
+    },
+    {
+      "id": "6543e88ab2cb205663c0341e",
+      "itemName": "신머이쌀국수",
+      "price": 4,
+      "link": "서울 영등포구 영등포로 195-1",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698949258608.jpg",
+      "createdAt": "2023-11-02T18:20:58.780Z",
+      "updatedAt": "2023-11-02T18:20:58.780Z",
+      "author": {
+        "_id": "6543409eb2cb205663ba1085",
+        "username": "개발자 냠",
+        "accountname": "holo_dev",
+        "intro": "개발자의 혼밥 일상",
+        "image": "https://api.mandarin.weniv.co.kr/1698906263839.png",
+        "isfollow": false,
+        "following": [
+          "653cad99b2cb2056638aed26",
+          "653b9238b2cb2056638a298b",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0"
+        ],
+        "follower": [
+          "65449592b2cb205663ca4297",
+          "653b9238b2cb2056638a298b",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0",
+          "653cad99b2cb2056638aed26"
+        ],
+        "followerCount": 6,
+        "followingCount": 6
+      }
+    },
+    {
+      "id": "6543e7f0b2cb205663c03321",
+      "itemName": "도림 186",
+      "price": 5,
+      "link": "서울 영등포구 도영로 44",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698949104245.jpg",
+      "createdAt": "2023-11-02T18:18:24.421Z",
+      "updatedAt": "2023-11-02T18:18:24.421Z",
+      "author": {
+        "_id": "6543409eb2cb205663ba1085",
+        "username": "개발자 냠",
+        "accountname": "holo_dev",
+        "intro": "개발자의 혼밥 일상",
+        "image": "https://api.mandarin.weniv.co.kr/1698906263839.png",
+        "isfollow": false,
+        "following": [
+          "653cad99b2cb2056638aed26",
+          "653b9238b2cb2056638a298b",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0"
+        ],
+        "follower": [
+          "65449592b2cb205663ca4297",
+          "653b9238b2cb2056638a298b",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0",
+          "653cad99b2cb2056638aed26"
+        ],
+        "followerCount": 6,
+        "followingCount": 6
+      }
+    },
+    {
+      "id": "6543e65bb2cb205663c030af",
+      "itemName": "작은 중식당",
+      "price": 5,
+      "link": "서울 마포구 도화4길 39",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698948699297.jpg",
+      "createdAt": "2023-11-02T18:11:39.459Z",
+      "updatedAt": "2023-11-02T18:11:39.459Z",
+      "author": {
+        "_id": "6543409eb2cb205663ba1085",
+        "username": "개발자 냠",
+        "accountname": "holo_dev",
+        "intro": "개발자의 혼밥 일상",
+        "image": "https://api.mandarin.weniv.co.kr/1698906263839.png",
+        "isfollow": false,
+        "following": [
+          "653cad99b2cb2056638aed26",
+          "653b9238b2cb2056638a298b",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0"
+        ],
+        "follower": [
+          "65449592b2cb205663ca4297",
+          "653b9238b2cb2056638a298b",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0",
+          "653cad99b2cb2056638aed26"
+        ],
+        "followerCount": 6,
+        "followingCount": 6
+      }
+    },
+    {
+      "id": "6543e51ab2cb205663c02e33",
+      "itemName": "라무라",
+      "price": 5,
+      "link": "서울 마포구 포은로 21",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698948378108.jpg",
+      "createdAt": "2023-11-02T18:06:18.276Z",
+      "updatedAt": "2023-11-02T18:06:18.276Z",
+      "author": {
+        "_id": "6543409eb2cb205663ba1085",
+        "username": "개발자 냠",
+        "accountname": "holo_dev",
+        "intro": "개발자의 혼밥 일상",
+        "image": "https://api.mandarin.weniv.co.kr/1698906263839.png",
+        "isfollow": false,
+        "following": [
+          "653cad99b2cb2056638aed26",
+          "653b9238b2cb2056638a298b",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0"
+        ],
+        "follower": [
+          "65449592b2cb205663ca4297",
+          "653b9238b2cb2056638a298b",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0",
+          "653cad99b2cb2056638aed26"
+        ],
+        "followerCount": 6,
+        "followingCount": 6
+      }
+    },
+    {
+      "id": "6543e42bb2cb205663c028f7",
+      "itemName": "모퉁이네",
+      "price": 5,
+      "link": "서울 영등포구 국제금융로6길 33",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698948139296.jpg",
+      "createdAt": "2023-11-02T18:02:19.480Z",
+      "updatedAt": "2023-11-02T18:02:19.480Z",
+      "author": {
+        "_id": "6543409eb2cb205663ba1085",
+        "username": "개발자 냠",
+        "accountname": "holo_dev",
+        "intro": "개발자의 혼밥 일상",
+        "image": "https://api.mandarin.weniv.co.kr/1698906263839.png",
+        "isfollow": false,
+        "following": [
+          "653cad99b2cb2056638aed26",
+          "653b9238b2cb2056638a298b",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0"
+        ],
+        "follower": [
+          "65449592b2cb205663ca4297",
+          "653b9238b2cb2056638a298b",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0",
+          "653cad99b2cb2056638aed26"
+        ],
+        "followerCount": 6,
+        "followingCount": 6
+      }
+    },
+    {
+      "id": "6543e3e8b2cb205663c027b3",
+      "itemName": "맨홀 커피",
+      "price": 5,
+      "link": "서울 영등포구 영신로 247",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698948072600.jpg",
+      "createdAt": "2023-11-02T18:01:12.772Z",
+      "updatedAt": "2023-11-02T18:01:12.772Z",
+      "author": {
+        "_id": "6543409eb2cb205663ba1085",
+        "username": "개발자 냠",
+        "accountname": "holo_dev",
+        "intro": "개발자의 혼밥 일상",
+        "image": "https://api.mandarin.weniv.co.kr/1698906263839.png",
+        "isfollow": false,
+        "following": [
+          "653cad99b2cb2056638aed26",
+          "653b9238b2cb2056638a298b",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0"
+        ],
+        "follower": [
+          "65449592b2cb205663ca4297",
+          "653b9238b2cb2056638a298b",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0",
+          "653cad99b2cb2056638aed26"
+        ],
+        "followerCount": 6,
+        "followingCount": 6
+      }
+    },
+    {
+      "id": "6543df3fb2cb205663c01b04",
+      "itemName": "베이커리 나무",
+      "price": 5,
+      "link": "서울 마포구 포은로 40-1",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698946879033.jpg",
+      "createdAt": "2023-11-02T17:41:19.198Z",
+      "updatedAt": "2023-11-02T17:41:19.198Z",
+      "author": {
+        "_id": "6543409eb2cb205663ba1085",
+        "username": "개발자 냠",
+        "accountname": "holo_dev",
+        "intro": "개발자의 혼밥 일상",
+        "image": "https://api.mandarin.weniv.co.kr/1698906263839.png",
+        "isfollow": false,
+        "following": [
+          "653cad99b2cb2056638aed26",
+          "653b9238b2cb2056638a298b",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0"
+        ],
+        "follower": [
+          "65449592b2cb205663ca4297",
+          "653b9238b2cb2056638a298b",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "654998bdb2cb2056633751e0",
+          "653cad99b2cb2056638aed26"
+        ],
+        "followerCount": 6,
+        "followingCount": 6
+      }
+    }
+  ]
+}

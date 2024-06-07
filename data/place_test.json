@@ -1,0 +1,227 @@
+{
+  "data": 6,
+  "product": [
+    {
+      "id": "6551bd34b2cb205663aeb912",
+      "itemName": "용산 스타벅스",
+      "price": 5,
+      "link": "서울 용산구 이촌로 198",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1699855667899.jpg",
+      "createdAt": "2023-11-13T06:07:48.089Z",
+      "updatedAt": "2023-11-13T06:07:48.089Z",
+      "author": {
+        "_id": "653cad99b2cb2056638aed26",
+        "username": "프로혼밥러시안",
+        "accountname": "holo_pro",
+        "intro": "프로혼밥러",
+        "image": "https://api.mandarin.weniv.co.kr/1699364152190.jpg",
+        "isfollow": false,
+        "following": [
+          "653b9238b2cb2056638a298b",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "654998bdb2cb2056633751e0",
+          "6543409eb2cb205663ba1085"
+        ],
+        "follower": [
+          "653b9238b2cb2056638a298b",
+          "6543409eb2cb205663ba1085",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "654998bdb2cb2056633751e0"
+        ],
+        "followerCount": 7,
+        "followingCount": 7
+      }
+    },
+    {
+      "id": "654a3e1cb2cb205663617cab",
+      "itemName": "홍대 카와카츠 본점",
+      "price": 4,
+      "link": "서울 마포구 동교로 126",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1699364587973.jpg",
+      "createdAt": "2023-11-07T13:39:40.315Z",
+      "updatedAt": "2023-11-07T13:43:08.132Z",
+      "author": {
+        "_id": "653cad99b2cb2056638aed26",
+        "username": "프로혼밥러시안",
+        "accountname": "holo_pro",
+        "intro": "프로혼밥러",
+        "image": "https://api.mandarin.weniv.co.kr/1699364152190.jpg",
+        "isfollow": false,
+        "following": [
+          "653b9238b2cb2056638a298b",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "654998bdb2cb2056633751e0",
+          "6543409eb2cb205663ba1085"
+        ],
+        "follower": [
+          "653b9238b2cb2056638a298b",
+          "6543409eb2cb205663ba1085",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "654998bdb2cb2056633751e0"
+        ],
+        "followerCount": 7,
+        "followingCount": 7
+      }
+    },
+    {
+      "id": "654220a2b2cb205663a5faf4",
+      "itemName": "난포",
+      "price": 4,
+      "link": "서울 성동구 서울숲4길 18-8",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698832545898.jpg",
+      "createdAt": "2023-11-01T09:55:46.054Z",
+      "updatedAt": "2023-11-01T09:55:46.054Z",
+      "author": {
+        "_id": "653cad99b2cb2056638aed26",
+        "username": "프로혼밥러시안",
+        "accountname": "holo_pro",
+        "intro": "프로혼밥러",
+        "image": "https://api.mandarin.weniv.co.kr/1699364152190.jpg",
+        "isfollow": false,
+        "following": [
+          "653b9238b2cb2056638a298b",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "654998bdb2cb2056633751e0",
+          "6543409eb2cb205663ba1085"
+        ],
+        "follower": [
+          "653b9238b2cb2056638a298b",
+          "6543409eb2cb205663ba1085",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "654998bdb2cb2056633751e0"
+        ],
+        "followerCount": 7,
+        "followingCount": 7
+      }
+    },
+    {
+      "id": "65422093b2cb205663a5fa41",
+      "itemName": "부우이",
+      "price": 3,
+      "link": "서울 성동구 서울숲2길 16-12",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698832531426.jpg",
+      "createdAt": "2023-11-01T09:55:31.594Z",
+      "updatedAt": "2023-11-01T09:55:31.594Z",
+      "author": {
+        "_id": "653cad99b2cb2056638aed26",
+        "username": "프로혼밥러시안",
+        "accountname": "holo_pro",
+        "intro": "프로혼밥러",
+        "image": "https://api.mandarin.weniv.co.kr/1699364152190.jpg",
+        "isfollow": false,
+        "following": [
+          "653b9238b2cb2056638a298b",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "654998bdb2cb2056633751e0",
+          "6543409eb2cb205663ba1085"
+        ],
+        "follower": [
+          "653b9238b2cb2056638a298b",
+          "6543409eb2cb205663ba1085",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "654998bdb2cb2056633751e0"
+        ],
+        "followerCount": 7,
+        "followingCount": 7
+      }
+    },
+    {
+      "id": "65421dc3b2cb205663a5ec35",
+      "itemName": "보슬보슬",
+      "price": 4,
+      "link": "서울 강남구 논현로85길 59",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698831811248.jpg",
+      "createdAt": "2023-11-01T09:43:31.408Z",
+      "updatedAt": "2023-11-01T09:43:31.408Z",
+      "author": {
+        "_id": "653cad99b2cb2056638aed26",
+        "username": "프로혼밥러시안",
+        "accountname": "holo_pro",
+        "intro": "프로혼밥러",
+        "image": "https://api.mandarin.weniv.co.kr/1699364152190.jpg",
+        "isfollow": false,
+        "following": [
+          "653b9238b2cb2056638a298b",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "654998bdb2cb2056633751e0",
+          "6543409eb2cb205663ba1085"
+        ],
+        "follower": [
+          "653b9238b2cb2056638a298b",
+          "6543409eb2cb205663ba1085",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "654998bdb2cb2056633751e0"
+        ],
+        "followerCount": 7,
+        "followingCount": 7
+      }
+    },
+    {
+      "id": "65421daab2cb205663a5eb99",
+      "itemName": "고기리막국수",
+      "price": 5,
+      "link": "경기 용인시 수지구 이종무로 157",
+      "itemImage": "https://api.mandarin.weniv.co.kr/1698831786502.jpg",
+      "createdAt": "2023-11-01T09:43:06.665Z",
+      "updatedAt": "2023-11-01T09:43:06.665Z",
+      "author": {
+        "_id": "653cad99b2cb2056638aed26",
+        "username": "프로혼밥러시안",
+        "accountname": "holo_pro",
+        "intro": "프로혼밥러",
+        "image": "https://api.mandarin.weniv.co.kr/1699364152190.jpg",
+        "isfollow": false,
+        "following": [
+          "653b9238b2cb2056638a298b",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "654998bdb2cb2056633751e0",
+          "6543409eb2cb205663ba1085"
+        ],
+        "follower": [
+          "653b9238b2cb2056638a298b",
+          "6543409eb2cb205663ba1085",
+          "65449592b2cb205663ca4297",
+          "6547b531b2cb205663f9f313",
+          "6547d839b2cb205663fd7642",
+          "65487c05b2cb2056630ff074",
+          "654998bdb2cb2056633751e0"
+        ],
+        "followerCount": 7,
+        "followingCount": 7
+      }
+    }
+  ]
+}

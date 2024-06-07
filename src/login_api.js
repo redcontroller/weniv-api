@@ -1,5 +1,5 @@
 import axios from "axios";
-import BASE_URL from "./base_url.mjs";
+import BASE_URL from "./base_url.js";
 
 const login_info = [
     {
@@ -35,4 +35,4 @@ const login = async ( {email, password} ) => {
     }
 };
 
-login(login_info[1]);
+login(login_info[0]);
